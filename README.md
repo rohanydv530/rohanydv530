@@ -273,11 +273,6 @@ A React application demonstrating centralized state management and reusable appl
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=rohanydv530&theme=tokyonight&hide_border=true&border_radius=15"
-  height="180"
-  alt="GitHub Streak"
-/>
 
 <img
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohanydv530&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
