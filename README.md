@@ -274,15 +274,15 @@ A React application demonstrating centralized state management and reusable appl
 <div align="center">
 
 <img
-  src="./profile/github-stats.svg"
+  src="https://streak-stats.demolab.com?user=rohanydv530&theme=tokyonight&hide_border=true&border_radius=15"
   height="180"
-  alt="Rohan's GitHub Stats"
+  alt="GitHub Streak"
 />
 
 <img
-  src="./profile/top-langs.svg"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohanydv530&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
   height="180"
-  alt="Rohan's Top Languages"
+  alt="Top Languages"
 />
 
 </div>
@@ -301,11 +301,7 @@ A React application demonstrating centralized state management and reusable appl
 
 ---
 
-# 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanydv530&theme=tokyo-night&hide_border=true&border_radius=15" width="100%" alt="Rohan's GitHub Activity Graph" />
-</div>
 
 # 🐍 Watch My Contributions Get Eaten
 
