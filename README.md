@@ -304,16 +304,8 @@ A React application demonstrating centralized state management and reusable appl
 # 📈 Contribution Graph
 
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rohanydv530&theme=tokyo-night&hide_border=true&radius=12&area=true"
-  width="95%"
-  alt="Rohan's GitHub Activity Graph"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanydv530&theme=tokyo-night&hide_border=true&border_radius=15" width="100%" alt="Rohan's GitHub Activity Graph" />
 </div>
-
----
 
 # 🐍 Watch My Contributions Get Eaten
 
