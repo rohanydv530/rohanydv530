@@ -329,7 +329,7 @@ I'm always interested in connecting with developers, collaborating on projects, 
 &nbsp;
 
 <a href="mailto:yadavbhoupander@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yadavbhoupander-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-rohan_yadav-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
