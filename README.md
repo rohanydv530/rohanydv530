@@ -274,20 +274,18 @@ A React application demonstrating centralized state management and reusable appl
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=rohanydv530&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"
+  src="./profile/github-stats.svg"
   height="180"
   alt="Rohan's GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanydv530&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+  src="./profile/top-langs.svg"
   height="180"
   alt="Rohan's Top Languages"
 />
 
 </div>
-
----
 
 # 🔥 Contribution Streak
 
