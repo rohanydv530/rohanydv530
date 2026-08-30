@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rohanydv530&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ```javascript
 const rohan = {
-    education: "B.Tech CSE @ AKGEC | 2023 - 2027",
+    education: "B.Tech CSE @ AKGEC | 2024 - 2028",
     location: "Ghaziabad, India",
 
     currentlyLearning: [
@@ -39,6 +39,15 @@ const rohan = {
         languages: ["Java", "JavaScript", "HTML", "CSS"]
     },
 
+    coreConcepts: [
+        "DSA",
+        "OOP",
+        "DBMS",
+        "REST APIs",
+        "JWT Authentication",
+        "CRUD"
+    ],
+
     interests: [
         "Building scalable web applications",
         "Backend development",
@@ -46,129 +55,91 @@ const rohan = {
         "Machine Learning"
     ],
 
-    mindset: "Learn → Build → Break → Fix → Repeat 🚀"
+    mindset: "Learn → Build → Break → Fix → Improve 🚀"
 };
-```
 
-> 💡 I enjoy turning ideas into functional applications and continuously improving my understanding of software development, DSA, and backend systems.
+💻 Tech Stack
+👨‍💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=java,js,html,css" /> </p>
+⚛️ Frontend Development
+<p> <img src="https://skillicons.dev/icons?i=react,redux" /> </p>
+⚙️ Backend Development
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+🗄️ Databases & Caching
+<p> <img src="https://skillicons.dev/icons?i=mongodb,redis" /> </p>
+🛠️ Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
----
+Core Concepts:
 
-# 💻 Tech Stack
+DSA · OOP · DBMS · REST APIs · JWT Authentication · CRUD
 
-### 👨‍💻 Languages
+🔥 Featured Projects
+<table> <tr> <td width="50%">
+📁 File Upload & Authentication Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
+MERN Stack · JWT · MongoDB
 
-### ⚛️ Frontend
+A full-stack web application focused on authentication, file management, and user profiles.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux" />
-</p>
+Features:
 
-### ⚙️ Backend
+🔐 JWT authentication
+👤 User registration & login
+🛡️ Protected routes
+📤 File upload & management
+👨‍💻 Editable user profiles
+📱 Responsive React interface
+🗄️ MongoDB data persistence
+</td> <td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+✍️ Blogify
 
-### 🗄️ Database & Infrastructure
+Node.js · Express.js · MongoDB
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,redis" />
-</p>
+A blogging platform built with Express.js and MongoDB.
 
-### 🛠️ Tools & Concepts
+Features:
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+📝 Create & manage blogs
+🔄 CRUD operations
+🗃️ Mongoose data modeling
+🚀 Express.js routing
+💾 MongoDB persistence
+🧩 Structured backend architecture
+</td> </tr> <tr> <td width="50%">
+✅ Todo Application
 
-**Core Concepts:**
-`DSA` · `OOP` · `DBMS` · `REST APIs` · `JWT Authentication` · `CRUD`
+React · Redux
 
----
+A responsive task management application using Redux for predictable global state management.
 
-# 🔥 Featured Projects
+Features:
 
-<table>
-<tr>
-<td width="50%">
+➕ Add tasks
+✏️ Update tasks
+✅ Complete tasks
+🗑️ Delete tasks
+⚛️ Reusable components
+🔄 Redux state management
+</td> <td width="50%">
 
-### 📁 File Upload & Authentication Platform
+💱 Currency Calculator
 
-**MERN Stack · JWT · MongoDB**
+React · Context API · Hooks
 
-A full-stack application with:
+A React application demonstrating centralized state management and reusable application logic.
 
-* 🔐 JWT authentication
-* 👤 User registration & login
-* 🛡️ Protected routes
-* 📤 File upload & management
-* 👨‍💻 Editable user profiles
-* 📱 Responsive React UI
+Features:
 
-</td>
+⚛️ React Hooks
+🌐 Context API
+🔄 Shared state management
+🧩 Reusable components
+📱 Responsive interface
+</td> </tr> </table>
 
-<td width="50%">
-
-### ✍️ Blogify
-
-**Node.js · Express.js · MongoDB**
-
-A complete blogging platform featuring:
-
-* 📝 Create & manage blogs
-* 🔄 CRUD operations
-* 🗃️ Mongoose data modeling
-* 🚀 Express.js routing
-* 💾 MongoDB persistence
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ✅ Todo Application
-
-**React · Redux**
-
-A responsive task management application built around predictable global state management.
-
-* ➕ Add tasks
-* ✏️ Update tasks
-* ✅ Complete tasks
-* 🗑️ Delete tasks
-* ⚛️ Reusable React components
-* 🔄 Redux state management
-
-</td>
-
-<td width="50%">
-
-### 💱 Currency Calculator
-
-**React · Context API · Hooks**
-
-A React-based currency calculation application focused on reusable logic and centralized state management.
-
-* ⚛️ React Hooks
-* 🌐 Context API
-* 🔄 Shared application state
-* 🧩 Reusable components
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 What I'm Currently Working On
-
-```text
+🧠 What I'm Currently Working On
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║   🔨 Building full-stack MERN applications           ║
@@ -179,11 +150,8 @@ A React-based currency calculation application focused on reusable logic and cen
 ║   🚀 Building projects and improving every day       ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-```
 
----
-
-# 🏆 Certifications
+🏆 Certifications
 
 | Certification                   | Issuer                                 |
 | ------------------------------- | -------------------------------------- |
@@ -192,7 +160,6 @@ A React-based currency calculation application focused on reusable logic and cen
 | 🧩 Data Structures & Algorithms | Apna College                           |
 | 🤖 AI/ML Workshop               | Bharat Space Research Education Center |
 
----
 
 # 💼 Experience
 
@@ -200,118 +167,72 @@ A React-based currency calculation application focused on reusable logic and cen
 
 **Ajay Kumar Garg Engineering College**
 
-* Worked with foundational Data Science and Machine Learning concepts.
-* Performed data preprocessing and exploratory data analysis.
-* Applied machine learning concepts to practical datasets.
-* Strengthened understanding through hands-on implementation.
+- 📊 Worked with foundational **Data Science & Machine Learning** concepts.
+- 🧹 Performed **data preprocessing** and **exploratory data analysis (EDA)** on practical datasets.
+- 🤖 Applied **Machine Learning concepts** to real-world datasets and problem scenarios.
+- 💻 Strengthened practical understanding through **hands-on implementation and experimentation**.
 
----
 
-# 🎓 Education
+🎓 Education
+🏫 Ajay Kumar Garg Engineering College — Ghaziabad
 
-### 🏫 Ajay Kumar Garg Engineering College — Ghaziabad
+Bachelor of Technology — Computer Science & Engineering
 
-**Bachelor of Technology — Computer Science & Engineering**
+2024 — 2028
 
-`2023 — 2027`
+SGPA: 8.07 / 10 (up to 4th semester)
 
-**SGPA:** `8.07 / 10` *(up to 4th semester)*
+🌟 Beyond Code
+👨‍💻 Member of Technical Society — AKGEC
+🤝 Member of Slum Swaraj Society — AKGEC
+🧠 Interested in DSA, backend systems & software development
+🚀 Enjoy building projects while learning new technologies
 
----
 
-# 🌟 Beyond Code
-
-* 👨‍💻 Member of **Technical Society — AKGEC**
-* 🤝 Member of **Slum Swaraj Society — AKGEC**
-* 🧠 Interested in DSA, backend systems & software development
-* 🚀 Enjoy building projects while learning new technologies
-
----
-
-# 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=rohanydv530&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"
-  height="180"
-  alt="Rohan's GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohanydv530&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="Rohan's GitHub Stats" />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanydv530&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
-  height="180"
-  alt="Rohan's Top Languages"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanydv530&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="Rohan's Top Languages" />
 
 </div>
 
-# 📈 Contribution Graph
-
+🔥 Contribution Streak
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanydv530&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
+<img src="https://streak-stats.demolab.com/?user=rohanydv530&theme=tokyonight&hide_border=true&border_radius=15" alt="Rohan's GitHub Contribution Streak" />
 
 </div>
 
----
-
-# 🐍 Watch My Contributions Get Eaten
-
+📈 Contribution Graph
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanydv530&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="Rohan's GitHub Activity Graph" />
 
 </div>
 
----
-
----
-
-# 📈 Contribution Graph
-
+🐍 Watch My Contributions Get Eaten
 <div align="center">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rohanydv530&theme=tokyo-night&hide_border=true&radius=12&area=true"
-  width="95%"
-  alt="Rohan's GitHub Activity Graph"
-/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
----
-
-
-
-# 💬 Let's Connect
-
+💬 Let's Connect
 <div align="center">
-
-### 💻 Building. Learning. Improving. Repeating.
+💻 Building. Learning. Improving. Repeating.
 
 I'm always interested in connecting with developers, collaborating on projects, and learning something new.
 
-<br/>
-
-<a href="https://linkedin.com/in/rohanydv530">
-<img src="https://img.shields.io/badge/LinkedIn-rohanydv530-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yadavbhoupander@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-yadavbhoupander-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/> <a href="https://linkedin.com/in/rohanydv530"> <img src="https://img.shields.io/badge/LinkedIn-rohanydv530-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:yadavbhoupander@gmail.com"> <img src="https://img.shields.io/badge/Gmail-yadavbhoupander-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <br/><br/>
 
-**⭐ If you find something interesting in my repositories, feel free to star it!**
+⭐ If you find something interesting in my repositories, feel free to star it!
 
 </div>
-
----
 
 <div align="center">
-
-### `while(alive) { learn(); build(); improve(); }`
-
-</div>
+while(alive) { learn(); build(); improve(); }
+</div> ```
