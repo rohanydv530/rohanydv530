@@ -232,19 +232,25 @@ A React-based currency calculation application focused on reusable logic and cen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=rohanydv530&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"
+  height="180"
+  alt="Rohan's GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanydv530&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+  height="180"
+  alt="Rohan's Top Languages"
+/>
 
 </div>
 
----
-
-# 🔥 Contribution Streak
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanydv530&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
 
 </div>
 
@@ -260,15 +266,23 @@ A React-based currency calculation application focused on reusable logic and cen
 
 ---
 
+---
+
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rohanydv530&theme=tokyo-night&hide_border=true&radius=12&area=true"
+  width="95%"
+  alt="Rohan's GitHub Activity Graph"
+/>
 
 </div>
 
 ---
+
+
 
 # 💬 Let's Connect
 
